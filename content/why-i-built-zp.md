@@ -1,5 +1,5 @@
 +++
-title = "Why I built zp?"
+title = "Why I built zp!"
 description = "Talks about the process behind building zp!"
 date = 2023-04-12
 
