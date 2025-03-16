@@ -5,7 +5,7 @@ base_url = "https://blog.gokuls.in"
 compile_sass = true
 
 # The site title and description; used in feeds by default.
-title = "bahdotsh's Blog"
+title = "bahdotsh"
 description = "Rust • FOSS • Programming"
 
 # Whether to build a search index to be used later on by a JavaScript library
