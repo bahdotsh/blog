@@ -50,5 +50,5 @@ latex = true
 comments = true
 giscus_repo = "bahdotsh/blog"
 giscus_repo_id = "R_kgDOOJbE2g="
-giscus_data_category_id = "DIC_kwDOOJbE2s4CoGkM"
+giscus_data_category_id = "DIC_kwDOOJbE2s4CoGkP"
 radion_title = "bahdotsh's blog"
