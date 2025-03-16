@@ -48,7 +48,7 @@ codeblock = true
 latex = true
 # Giscus comment support
 comments = true
-giscus_repo = "bahdotsh/bahdotsh.github.io"
-giscus_repo_id = "MDEwOlJlcG9zaXRvcnkyOTU4MDQxOTI="
-giscus_data_category_id = "DIC_kwDOEaGdIM4CoGDM"
+giscus_repo = "bahdotsh/blog"
+giscus_repo_id = "R_kgDOOJbE2g="
+giscus_data_category_id = "DIC_kwDOOJbE2s4CoGkM"
 radion_title = "bahdotsh's blog"
