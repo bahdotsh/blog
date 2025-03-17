@@ -1,0 +1,25 @@
+
+
+# Logs
+*.log
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Build directories
+build/
+dist/
+
+# OS-specific files
+.env
+# Additional files to ignore
+.idea/
+.vscode/
