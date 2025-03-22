@@ -10,7 +10,9 @@ categories = ["Projects"]
 
 # zp
 
-[zp](https://github.com/bahdotsh/zp) is a cli command to copy the contents of the source file or of the std output buffer to the clipboard. To use the `zp`, simply open your terminal or command prompt (well install it first) and type `zp` followed by the name of the source file. For example:
+[zp](https://github.com/bahdotsh/zp) is a cli command to copy the contents of the source file or of the std output buffer to the clipboard. To use the `zp`,
+<!-- more -->
+simply open your terminal or command prompt (well install it first) and type `zp` followed by the name of the source file. For example:
 
 ```
 zp my_file.txt

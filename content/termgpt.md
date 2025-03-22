@@ -18,7 +18,7 @@ Interact with ChatGPT from your terminal! 🚀🤖
 
 </div>
 
-
+<!-- more -->
 ## Install
 
 ### Cargo

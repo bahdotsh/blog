@@ -13,6 +13,7 @@ categories = ["Projects"]
 A modern, interactive Sudoku game built with React, featuring multiple difficulty levels, solving assistance, and a clean, responsive design.
 
 This app is deployed on [https://sudoku.gokuls.in](https://sudoku.gokuls.in)!
+<!-- more -->
 
 ## Features
 
