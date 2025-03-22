@@ -2,7 +2,7 @@
 external = false
 title = "giff"
 description = "git diff terminal visualizer"
-date = 2024-08-6
+date = 2024-08-06
 
 [taxonomies]
 categories = ["Projects"]

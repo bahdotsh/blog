@@ -2,7 +2,7 @@
 external = false
 title = "sudoku"
 description = "sudoku game"
-date = 2024-08-06
+date = 2025-03-22
 
 [taxonomies]
 categories = ["Projects"]
