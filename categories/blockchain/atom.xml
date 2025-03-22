@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>bahdotsh - Blockchain</title>
+    <subtitle>Rust • FOSS • Programming</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://blog.gokuls.in/categories/blockchain/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://blog.gokuls.in"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2020-08-02T00:00:00+00:00</updated>
+    <id>https://blog.gokuls.in/categories/blockchain/atom.xml</id>
+    <entry xml:lang="en">
+        <title>How does the blockchain work? Part 2</title>
+        <published>2020-08-02T00:00:00+00:00</published>
+        <updated>2020-08-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/how-does-blockchain-work-2/"/>
+        <id>https://blog.gokuls.in/how-does-blockchain-work-2/</id>
+        
+        <summary type="html">&lt;p&gt;Before looking at Merkle trees, let’s see what a tree actually is when it comes to programming. In simple terms, trees are nothing but representations of how data is stored in the memory.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>How does the blockchain work? Part 1</title>
+        <published>2020-07-31T00:00:00+00:00</published>
+        <updated>2020-07-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/how-does-blockchain-work-1/"/>
+        <id>https://blog.gokuls.in/how-does-blockchain-work-1/</id>
+        
+        <summary type="html">&lt;p&gt;Blockchain is a combination of several different technologies. For making it easier for you, I have broken it down into simpler parts. This is the first part of this series and it’s all about one of the most important technologies used in blockchain; &lt;em&gt;&lt;strong&gt;cryptography&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The Blockchain Dictionary</title>
+        <published>2020-07-29T00:00:00+00:00</published>
+        <updated>2020-07-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/blockchain-dictionary/"/>
+        <id>https://blog.gokuls.in/blockchain-dictionary/</id>
+        
+        <summary type="html">&lt;p&gt;Bitcoin prices blew up in 2017, reaching a peak of a whopping $20,000. After that, the entire planet was talking about this new technology called blockchain. We saw in our &lt;a href=&quot;https:&#x2F;&#x2F;gokuls.in&#x2F;blog&#x2F;blockchain&#x2F;&quot;&gt;previous&lt;&#x2F;a&gt;  article what this blockchain actually is. Now let’s get familiar with some of the terms we may repeatedly come in close contact with; every time we talk blockchain.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Blockchain: A short sneak peek</title>
+        <published>2020-07-27T00:00:00+00:00</published>
+        <updated>2020-07-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/blockchain/"/>
+        <id>https://blog.gokuls.in/blockchain/</id>
+        
+        <summary type="html">&lt;p&gt;Blockchain is revolutionizing the Internet as we speak. From cryptographer David Chaum to Satoshi Nakamoto, a new door to fundamentally change the way Internet transactions can be implemented was opened. So, what is this blockchain and what is this revolution everybody is talking about?&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>

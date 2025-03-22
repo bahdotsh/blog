@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+        <!-- Enable responsiveness on mobile devices -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        
+        <meta name="description" content="sudoku game" />
+        <meta property="og:description" content="sudoku game" />
+        <meta property="twitter:description" content="sudoku game" />
+        
+
+        <!-- Title -->
+          
+
+        <title>
+    
+    sudoku
+    
+</title>
+
+        <!-- Additional Facebook Meta Tags -->
+        <meta
+            property="og:url"
+            content="https:&#x2F;&#x2F;blog.gokuls.in&#x2F;sudoku&#x2F;"
+        />
+        <meta
+            property="og:type"
+            content="article"
+        />
+        <meta property="og:title" content="sudoku" />
+        <meta
+            property="og:image"
+            content="https:&#x2F;&#x2F;blog.gokuls.in/icons/favicon/web-app-manifest-512x512.png"
+        />
+
+        <!-- Additional Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+            property="twitter:url"
+            content="https:&#x2F;&#x2F;blog.gokuls.in&#x2F;sudoku&#x2F;"
+        />
+        <meta name="twitter:title" content="sudoku" />
+        <meta
+            name="twitter:image"
+            content="https:&#x2F;&#x2F;blog.gokuls.in/icons/favicon/web-app-manifest-512x512.png"
+        />
+
+        <!-- Favicons -->
+        
+        <link
+            rel="icon"
+            type="image/png"
+            href="https:&#x2F;&#x2F;blog.gokuls.in/icons/favicon/favicon-96x96.png"
+            sizes="96x96"
+        />
+        <link
+            rel="icon"
+            type="image/svg+xml"
+            href="https:&#x2F;&#x2F;blog.gokuls.in/icons/favicon/favicon.svg"
+        />
+        <link
+            rel="shortcut icon"
+            href="https:&#x2F;&#x2F;blog.gokuls.in/icons/favicon/favicon.ico"
+        />
+        <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="https:&#x2F;&#x2F;blog.gokuls.in/icons/favicon/apple-touch-icon.png"
+        />
+        <meta name="apple-mobile-web-app-title" content="sudoku" />
+        <link
+            rel="manifest"
+            href="https:&#x2F;&#x2F;blog.gokuls.in/icons/favicon/site.webmanifest"
+        />
+        
+
+        <!-- RSS Feed -->
+        
+
+        <!-- Load Styles -->
+        <link
+            rel="stylesheet"
+            href="https://blog.gokuls.in/site.css"
+        />
+
+        <!-- Pass Theme Preference as Data Attribute -->
+        <script>
+            document.documentElement.dataset.theme =
+                "dark";
+        </script>
+        <script
+            defer
+            src="https://cloud.umami.is/script.js"
+            data-website-id="140b672e-1491-465a-bd66-da11fe465f04"
+        ></script>
+    </head>
+
+    <body class="hack dark main container">
+        
+    
+         
+        <header class="nav-header">
+            <nav
+                itemscope
+                itemtype="http://schema.org/SiteNavigationElement"
+                class="navbar"
+            >
+                <div class="nav-links">
+                    
+                    <a
+                        itemprop="url"
+                        class=""
+                        href="https://blog.gokuls.in"
+                    >
+                        <span itemprop="name">Home</span>
+                    </a>
+                    
+                    <a
+                        itemprop="url"
+                        class=""
+                        href="https://blog.gokuls.in/categories"
+                    >
+                        <span itemprop="name">Categories</span>
+                    </a>
+                    
+                    <a
+                        itemprop="url"
+                        class=""
+                        href="https://github.com/bahdotsh/blog"
+                    >
+                        <span itemprop="name">Source</span>
+                    </a>
+                    
+                    <a
+                        itemprop="url"
+                        class=""
+                        href="https://github.com/bahdotsh"
+                    >
+                        <span itemprop="name">GitHub</span>
+                    </a>
+                    
+                    <a
+                        itemprop="url"
+                        class=""
+                        href="https://blog.gokuls.in/rss.xml"
+                    >
+                        <span itemprop="name">RSS</span>
+                    </a>
+                    
+                    <a
+                        itemprop="url"
+                        class=""
+                        href="https://gokuls.in"
+                    >
+                        <span itemprop="name">About</span>
+                    </a>
+                    
+                </div>
+            </nav>
+            <div class="user-actions-container">
+                
+                <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke-width="1.5"
+                    class="search-icon"
+                >
+                    <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"
+                    />
+                </svg>
+                <input type="text" id="search" placeholder="Search..." />
+                <div class="search-results">
+                    <div class="search-results__items"></div>
+                </div>
+                   
+            </div>
+        </header>
+         
+    
+
+<article itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+        <h1 itemprop="headline">sudoku</h1>
+        <span class="muted">
+    <svg class="icon i-clock" viewBox="0 0 32 32"
+         width="16" height="16" fill="none" stroke="currentcolor"
+         stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+        <circle cx="16" cy="16" r="14"/>
+        <path d="M16 8 L16 16 20 20"/>
+    </svg>
+    <span>2 minute read</span>
+    <svg class="icon i-edit" viewBox="0 0 32 32"
+         width="16" height="16" fill="none" stroke="currentcolor"
+         stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+        <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z"/>
+    </svg>
+
+    Published: 2025-03-22
+</span>
+    </header>
+
+    <div itemprop="articleBody">
+        
+            <h1 id="sudoku">Sudoku</h1>
+<p>A modern, interactive Sudoku game built with React, featuring multiple difficulty levels, solving assistance, and a clean, responsive design.</p>
+<p>This app is deployed on <a href="https://sudoku.gokuls.in">https://sudoku.gokuls.in</a>!</p>
+
+            
+
+            <!-- Render the rest of the content after removing the summary portion -->
+            
+<span id="continue-reading"></span><h2 id="features">Features</h2>
+<ul>
+<li><strong>Multiple Difficulty Levels</strong>: Choose from Easy, Medium, Hard, and Expert puzzles</li>
+<li><strong>Intelligent Puzzle Generation</strong>: Create random, solvable Sudoku puzzles</li>
+<li><strong>Solving Assistance</strong>:
+<ul>
+<li>Check your progress at any time</li>
+<li>Get hints when stuck</li>
+<li>Auto-solve the current puzzle</li>
+</ul>
+</li>
+<li><strong>Game Timer</strong>: Track your solving time</li>
+<li><strong>Error Highlighting</strong>: Visual feedback for incorrect entries</li>
+<li><strong>Mobile Friendly</strong>: Responsive design with virtual keyboard for touch devices</li>
+<li><strong>Clean UI</strong>: Modern, intuitive interface</li>
+</ul>
+<h2 id="installation">Installation</h2>
+<ol>
+<li>
+<p>Clone the repository:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#6c7079;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#eb6772;">git</span><span style="color:#abb2bf;"> clone https://github.com/bahdotsh/sudoku.git
+</span><span style="color:#5ebfcc;">cd</span><span style="color:#abb2bf;"> sudoku
+</span></code></pre>
+</li>
+<li>
+<p>Install dependencies:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#6c7079;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#eb6772;">npm</span><span style="color:#abb2bf;"> install
+</span></code></pre>
+</li>
+<li>
+<p>Start the development server:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#6c7079;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#eb6772;">npm</span><span style="color:#abb2bf;"> start
+</span></code></pre>
+</li>
+<li>
+<p>Open your browser and navigate to <code>http://localhost:3000</code></p>
+</li>
+</ol>
+<h2 id="how-to-play">How to Play</h2>
+<ol>
+<li>Select a difficulty level from the dropdown menu</li>
+<li>Click "Generate New Puzzle" to start a new game</li>
+<li>Click on a cell to select it</li>
+<li>Enter a number (1-9) in the selected cell
+<ul>
+<li>On desktop: Use your keyboard</li>
+<li>On mobile: Use the virtual keyboard</li>
+</ul>
+</li>
+<li>Use the control buttons to:
+<ul>
+<li>Check your solution</li>
+<li>Get a hint</li>
+<li>Solve the puzzle automatically</li>
+<li>Reset the puzzle</li>
+<li>Clear the board</li>
+</ul>
+</li>
+</ol>
+<h2 id="project-structure">Project Structure</h2>
+<pre style="background-color:#2b303b;color:#6c7079;"><code><span style="color:#abb2bf;">sudoku/src/
+</span><span style="color:#abb2bf;">├── App.js                  # Main application component
+</span><span style="color:#abb2bf;">├── App.css                 # Application styles
+</span><span style="color:#abb2bf;">├── components/             # UI components
+</span><span style="color:#abb2bf;">│   ├── Cell.js             # Individual sudoku cell
+</span><span style="color:#abb2bf;">│   ├── Controls.js         # Game control buttons
+</span><span style="color:#abb2bf;">│   ├── SudokuBoard.js      # The sudoku grid
+</span><span style="color:#abb2bf;">│   └── VirtualKeyboard.js  # Mobile number input
+</span><span style="color:#abb2bf;">└── utils/
+</span><span style="color:#abb2bf;">    └── sudokuUtils.js      # Puzzle generation and solving algorithms
+</span></code></pre>
+<h2 id="technology-stack">Technology Stack</h2>
+<ul>
+<li>React</li>
+<li>JavaScript (ES6+)</li>
+<li>CSS3</li>
+</ul>
+<h2 id="algorithm-highlights">Algorithm Highlights</h2>
+<ul>
+<li><strong>Puzzle Generation</strong>: Creates valid, unique Sudoku puzzles with varying difficulty</li>
+<li><strong>Backtracking Solver</strong>: Efficiently solves Sudoku puzzles using a recursive backtracking algorithm</li>
+<li><strong>Solution Validation</strong>: Checks if the current board state is valid according to Sudoku rules</li>
+</ul>
+<h2 id="future-enhancements">Future Enhancements</h2>
+<ul>
+<li>Save game progress in local storage</li>
+<li>User accounts and leaderboards</li>
+<li>Additional puzzle types (Killer Sudoku, etc.)</li>
+<li>Dark mode theme</li>
+<li>Sound effects and animations</li>
+</ul>
+<h2 id="contributing">Contributing</h2>
+<p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
+<ol>
+<li>Fork the repository</li>
+<li>Create your feature branch (<code>git checkout -b feature/amazing-feature</code>)</li>
+<li>Commit your changes (<code>git commit -m 'Add some amazing feature'</code>)</li>
+<li>Push to the branch (<code>git push origin feature/amazing-feature</code>)</li>
+<li>Open a Pull Request</li>
+</ol>
+
+
+
+        
+    </div>
+
+    <!-- Comment section -->
+    
+      
+        
+          <script
+  src="https://giscus.app/client.js"
+  data-repo="bahdotsh&#x2F;blog"
+  data-repo-id="R_kgDOOJbE2g"
+  data-category="General"
+  data-category-id="DIC_kwDOOJbE2s4CoGkN"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="preferred_color_scheme"
+  data-lang="en"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+
+        
+      
+    
+
+
+    
+        <footer>
+            <hr>
+            <p>
+                
+                    Published by bahdotsh
+                
+                
+                    
+                    in <a href="https://blog.gokuls.in/categories/projects/">Projects</a>
+                
+                
+            </p>
+            
+            
+        </footer>
+    
+</article>
+
+
+
+        <!-- optional scripts -->
+         
+        <script src="https://blog.gokuls.in/js/codeblock.js"></script>
+         
+        <script src="https://blog.gokuls.in/js/toggle-theme.js"></script>
+         
+<!-- MathJax script for rendering LaTeX math equations -->
+<script src="https://blog.gokuls.in/js/mathjax-config.js"></script>
+<script
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
+  async
+></script>
+
+ 
+<script type="text/javascript" src="https://blog.gokuls.in/elasticlunr.min.js"></script>
+<script type="text/javascript" src="https://blog.gokuls.in/js/search.js"></script>
+ 
+    </body>
+</html>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>bahdotsh - Poems</title>
+    <subtitle>Rust • FOSS • Programming</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://blog.gokuls.in/categories/poems/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://blog.gokuls.in"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2020-12-04T00:00:00+00:00</updated>
+    <id>https://blog.gokuls.in/categories/poems/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Art, Time and Life</title>
+        <published>2020-12-04T00:00:00+00:00</published>
+        <updated>2020-12-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/art-time-life/"/>
+        <id>https://blog.gokuls.in/art-time-life/</id>
+        
+        <summary type="html">&lt;p&gt;He drew in haste. He had deadlines to meet. It was ridiculous. This is not how it was supposed to be. You can never rush art. But he had to. He was bringing art to the realm of time. And he knew that it would bounce. He had no choice. The world is moving fast and he had to keep up with it.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Random rant about silence</title>
+        <published>2020-02-06T00:00:00+00:00</published>
+        <updated>2020-02-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/silence/"/>
+        <id>https://blog.gokuls.in/silence/</id>
+        
+        <summary type="html">&lt;p&gt;Can you hear it, the sound the sunlight make when it first hits the ground?&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The Jump</title>
+        <published>2018-11-21T00:00:00+00:00</published>
+        <updated>2018-11-21T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/thejump/"/>
+        <id>https://blog.gokuls.in/thejump/</id>
+        
+        <summary type="html">&lt;p&gt;His heart started beating faster as he climbed.&lt;&#x2F;p&gt;
+&lt;p&gt;Every new step pumped an ounce more adrenaline to his veins.&lt;&#x2F;p&gt;
+&lt;p&gt;He was breathing faster.&lt;&#x2F;p&gt;
+&lt;p&gt;The wind soothed him.&lt;&#x2F;p&gt;
+&lt;p&gt;But at this moment peace terrorised him.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Life</title>
+        <published>2018-10-15T00:00:00+00:00</published>
+        <updated>2018-10-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/life/"/>
+        <id>https://blog.gokuls.in/life/</id>
+        
+        <summary type="html">&lt;p&gt;Smoke, Heavy head, Lights.&lt;&#x2F;p&gt;
+&lt;p&gt;Cough, breathe, repeat!&lt;&#x2F;p&gt;
+&lt;p&gt;Blurry vision and weightless body.&lt;&#x2F;p&gt;
+&lt;p&gt;Seeing life as if in a Cinema.&lt;&#x2F;p&gt;
+&lt;p&gt;Echoing sounds and blurry vision.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The answer</title>
+        <published>2018-09-15T00:00:00+00:00</published>
+        <updated>2018-09-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/theanswer/"/>
+        <id>https://blog.gokuls.in/theanswer/</id>
+        
+        <summary type="html">&lt;p&gt;“And they lived happily ever after”&lt;&#x2F;p&gt;
+&lt;p&gt;The story ended.&lt;&#x2F;p&gt;
+&lt;p&gt;The thought didn’t.&lt;&#x2F;p&gt;
+&lt;p&gt;“Happily ever after”!&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Beyond actual hues</title>
+        <published>2018-08-15T00:00:00+00:00</published>
+        <updated>2018-08-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/bah/"/>
+        <id>https://blog.gokuls.in/bah/</id>
+        
+        <summary type="html">&lt;p&gt;green? red? yellow?&lt;&#x2F;p&gt;
+&lt;p&gt;no! no!&lt;&#x2F;p&gt;
+&lt;p&gt;yellow? orange? white&lt;&#x2F;p&gt;
+&lt;p&gt;no! no!&lt;&#x2F;p&gt;
+&lt;p&gt;black. pitch black!&lt;&#x2F;p&gt;
+&lt;p&gt;what was it?&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The night</title>
+        <published>2018-07-12T00:00:00+00:00</published>
+        <updated>2018-07-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/night/"/>
+        <id>https://blog.gokuls.in/night/</id>
+        
+        <summary type="html">&lt;p&gt;Night.&lt;&#x2F;p&gt;
+&lt;p&gt;The moon, the stars.&lt;&#x2F;p&gt;
+&lt;p&gt;The wind kissed the trees.&lt;&#x2F;p&gt;
+&lt;p&gt;Owls shrieked.&lt;&#x2F;p&gt;
+&lt;p&gt;Wolves howled.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Death</title>
+        <published>2018-06-11T00:00:00+00:00</published>
+        <updated>2018-06-11T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/death/"/>
+        <id>https://blog.gokuls.in/death/</id>
+        
+        <summary type="html">&lt;p&gt;“Breathe! Breathe!”&lt;&#x2F;p&gt;
+&lt;p&gt;she couldn’t&lt;&#x2F;p&gt;
+&lt;p&gt;she forgot&lt;&#x2F;p&gt;
+&lt;p&gt;“Come on beth, open your eyes!”&lt;&#x2F;p&gt;
+&lt;p&gt;she couldn’t&lt;&#x2F;p&gt;
+&lt;p&gt;she forgot&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The Moth</title>
+        <published>2018-05-16T00:00:00+00:00</published>
+        <updated>2018-05-16T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/moth/"/>
+        <id>https://blog.gokuls.in/moth/</id>
+        
+        <summary type="html">&lt;p&gt;Nobody knows why,&lt;&#x2F;p&gt;
+&lt;p&gt;why I follow the light&lt;&#x2F;p&gt;
+&lt;p&gt;People think I crave it&lt;&#x2F;p&gt;
+&lt;p&gt;They think I’m afraid of the darkness&lt;&#x2F;p&gt;
+&lt;p&gt;And that I will die without it&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>

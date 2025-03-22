@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>bahdotsh - Projects</title>
+    <subtitle>Rust • FOSS • Programming</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://blog.gokuls.in/categories/projects/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://blog.gokuls.in"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-03-22T00:00:00+00:00</updated>
+    <id>https://blog.gokuls.in/categories/projects/atom.xml</id>
+    <entry xml:lang="en">
+        <title>sudoku</title>
+        <published>2025-03-22T00:00:00+00:00</published>
+        <updated>2025-03-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/sudoku/"/>
+        <id>https://blog.gokuls.in/sudoku/</id>
+        
+        <summary type="html">&lt;h1 id=&quot;sudoku&quot;&gt;Sudoku&lt;&#x2F;h1&gt;
+&lt;p&gt;A modern, interactive Sudoku game built with React, featuring multiple difficulty levels, solving assistance, and a clean, responsive design.&lt;&#x2F;p&gt;
+&lt;p&gt;This app is deployed on &lt;a href=&quot;https:&#x2F;&#x2F;sudoku.gokuls.in&quot;&gt;https:&#x2F;&#x2F;sudoku.gokuls.in&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>giff</title>
+        <published>2024-08-06T00:00:00+00:00</published>
+        <updated>2024-08-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/giff/"/>
+        <id>https://blog.gokuls.in/giff/</id>
+        
+        <summary type="html">&lt;h1 id=&quot;giff&quot;&gt;giff&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bahdotsh&#x2F;giff&quot;&gt;giff&lt;&#x2F;a&gt; visualizes the differences between the current &lt;code&gt;HEAD&lt;&#x2F;code&gt; and a specified branch in a git repository using a formatted&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Termgpt</title>
+        <published>2023-05-07T00:00:00+00:00</published>
+        <updated>2023-05-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/termgpt/"/>
+        <id>https://blog.gokuls.in/termgpt/</id>
+        
+        <summary type="html">&lt;div align=&quot;center&quot;&gt;
+	&lt;br&gt;
+	&lt;br&gt;
+	&lt;h1&gt;TermGPT&lt;&#x2F;h1&gt;
+	&lt;br&gt;
+&lt;p&gt;Interact with ChatGPT from your terminal! 🚀🤖&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Why I built zp!</title>
+        <published>2023-04-12T00:00:00+00:00</published>
+        <updated>2023-04-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/why-i-built-zp/"/>
+        <id>https://blog.gokuls.in/why-i-built-zp/</id>
+        
+        <summary type="html">&lt;p&gt;For those of you who don&#x27;t know, (which is going to be most of you), I recently published my very first crate; &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bahdotsh&#x2F;zp&quot;&gt;zp&lt;&#x2F;a&gt;. &lt;code&gt;zp&lt;&#x2F;code&gt; is just a simple tool to copy contents from a file. I built zp so that I can learn rust properly. And by properly, I mean learning something and understanding it in a way I can use it to build cool&#x2F;useful things in the future.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Zp</title>
+        <published>2023-04-10T00:00:00+00:00</published>
+        <updated>2023-04-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.gokuls.in/zp/"/>
+        <id>https://blog.gokuls.in/zp/</id>
+        
+        <summary type="html">&lt;h1 id=&quot;zp&quot;&gt;zp&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bahdotsh&#x2F;zp&quot;&gt;zp&lt;&#x2F;a&gt; is a cli command to copy the contents of the source file or of the std output buffer to the clipboard. To use the &lt;code&gt;zp&lt;&#x2F;code&gt;,&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>
